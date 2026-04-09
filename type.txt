@@ -1,0 +1,38 @@
+             ************ Day1 **************
+1. what is the typescript (super set of javascript)
+2.why need typescript?
+   * 
+3.dowmload typescript compiler (npm install -g typescript)
+4.check version tsc --version
+5.tsc file name
+6.told typescript which version convert in javascript (tsc file name --target es2016)
+7. typescript config file (tsc --init)
+8. after run (tsc);
+10. tsc --watch (exit ctrl c);
+11. How declear primitive data type in typescript
+
+******** Day2 *********
+11.what is the type inferance in typescript?
+12. what is the Explicit type Annotations
+13. what is the any and Unknown type in typescript?
+14. how declear Array in typescript
+15. what is the truple(fixed size of Array);
+16. what is te compiler time language 
+17. what is the interpeted language
+18. what is the Just in time language(interpeted language + compiler time language)
+19.what is the platfrom independent or platfrom depended language
+20.how declear Object(inline,outline,type,interface)
+21.Typescript is the transpiler
+
+********* Day3 *************
+22. optional keyword(?) in Object
+23. what is the partial,require,readonly(Object)
+24. How declear Object inside Array
+25. how declear function(return type , not return type, paremeter,defulat paremeter,optional paremeter)
+26. arrow function
+27. how declear callback function
+28. rest operator in Ts
+29. how declear classes in Ts
+30. how use extends in Ts
+31. public,private,protected
+32. Generics function in Ts
