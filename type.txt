@@ -19,13 +19,14 @@
 
 7. typescript config file (tsc --init)
 
-8. after run (tsc "file name);
+8. after run file only type (tsc);
 
 10. tsc --watch (exit ctrl c);
 
 11. How declear primitive data type in typescript
 
-******** Day2 *********
+               ************* Day2 **************
+
 11.what is the type inferance in typescript?
 12. what is the Explicit type Annotations
 13. what is the any and Unknown type in typescript?
