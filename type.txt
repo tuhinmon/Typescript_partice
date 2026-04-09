@@ -1,14 +1,28 @@
              ************ Day1 **************
 1. what is the typescript (super set of javascript)
+
 2.why need typescript?
-   * 
-3.dowmload typescript compiler (npm install -g typescript)
+
+      * when i write the code using javascript we donot mention 
+        type so if we donot mention type in any variable its is high 
+        probality that developer put a wrong value. if line 10 you 
+        write let a = 12 and you write line 3000 a = "Tuhin" there is 
+        the big problem that developer face this problem solved the typescript 
+
+3.Download typescript compiler in Cmd that convert typescript code to javascript code (npm install -g typescript)
+
 4.check version tsc --version
-5.tsc file name
+
+5.tsc "file name" run the Typescript file.
+
 6.told typescript which version convert in javascript (tsc file name --target es2016)
+
 7. typescript config file (tsc --init)
-8. after run (tsc);
+
+8. after run (tsc "file name);
+
 10. tsc --watch (exit ctrl c);
+
 11. How declear primitive data type in typescript
 
 ******** Day2 *********
