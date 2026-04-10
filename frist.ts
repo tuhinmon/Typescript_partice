@@ -7,4 +7,5 @@ let nul:null = null
 let bigint : bigint = 2323232323232323n;
 let n:number = 233;
 let s1:string = "Mondal"
+const a : number = 12
 

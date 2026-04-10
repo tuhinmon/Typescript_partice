@@ -9,4 +9,5 @@ let nul = null;
 let bigint = 2323232323232323n;
 let n = 233;
 let s1 = "Mondal";
+const a = 12;
 //# sourceMappingURL=frist.js.map
